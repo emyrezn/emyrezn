@@ -26,7 +26,7 @@
 
 <br clear="both">
 
-<h2 align="left">[ programming languages ]</h2>
+<h2 align="left">[ tools & languages ]</h2>
 
 ###
 
