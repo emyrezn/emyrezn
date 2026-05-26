@@ -2,7 +2,7 @@
 
 ###
 
-<img align="left" height="250" src="https://cdn.discordapp.com/attachments/717748137489596471/1508845914910097619/t6s_42d6b783-6962-4f2b-82e0-10d469218ece_2026-05-26_11-54-30.png?ex=6a1705c3&is=6a15b443&hm=9e660aea51a770415eedc05dd2bc2b1b97f50b31cdfd8b1d9bafd3e387122339&"  />
+<img align="left" height="300" src="https://cdn.discordapp.com/attachments/717748137489596471/1508845914910097619/t6s_42d6b783-6962-4f2b-82e0-10d469218ece_2026-05-26_11-54-30.png?ex=6a1705c3&is=6a15b443&hm=9e660aea51a770415eedc05dd2bc2b1b97f50b31cdfd8b1d9bafd3e387122339&"  />
 
 ###
 
@@ -44,10 +44,6 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emyrezn/emyrezn/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/emyrezn/emyrezn/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/emyrezn/emyrezn/pacman-output/pacman-contribution-graph.svg">
-</picture>
+<p align="center">︶⊹︶︶୨୧︶︶⊹︶︶⊹︶︶୨୧︶︶⊹︶︶⊹︶︶⊹︶︶୨୧︶︶⊹︶︶⊹︶︶୨୧︶︶⊹︶︶⊹︶</p>
 
 ###
